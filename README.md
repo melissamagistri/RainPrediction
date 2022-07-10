@@ -1,1 +1,1 @@
-# Prediction if rain tomorrow in Australia
+# Prediction if tomorrow rain in Australia
